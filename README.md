@@ -1,3 +1,1 @@
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoapCarlopBatistp&theme=radical&layout=compact" />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=JoapCarlopBatistp&theme=algolia&show_icons=true)](https://github.com/JoapCarlopBatistp)  
